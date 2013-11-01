@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name">PlayDay</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Isabella\'s Play Day</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="title_activity_shower">Isabella\'s Play Day</string>
+    <string name="action_settings">Isabella\'s Play Day</string>
+    <string name="hello_world">Isabella\'s Play Day</string>
+    <string name="title_activity_sarah">Isabella\'s Play Day</string>
+    <string name="title_activity_susan">Isabella\'s Play Day</string>
+    <string name="title_activity_bridget">Isabella\'s Play Day</string>
+    <string name="title_activity_friends">Isabella\'s Play Day</string>
+    <string name="title_activity_jake">Isabella\'s Play Day</string>
+    <string name="title_activity_drake">Isabella\'s Play Day</string>
+    <string name="title_activity_lunch">Isabella\'s Play Day</string>
+    <string name="title_activity_sig">Isabella\'s Play Day</string>
+    <string name="title_activity_albia">Isabella\'s Play Day</string>
+    <string name="title_activity_brady">Isabella\'s Play Day</string>
+    <string name="title_activity_room">Isabella\'s Play Day</string>
+    <string name="title_activity_katie_cara">Isabella\'s Play Day</string>
+    <string name="title_activity_clark">Isabella\'s Play Day</string>
+    <string name="title_activity_bunny">Isabella\'s Play Day</string>
+    <string name="title_activity_track">Isabella\'s Play Day</string>
+    <string name="title_activity_car">Isabella\'s Play Day</string>
+    <string name="title_activity_final">Isabella\'s Play Day</string>
+    <string name="titleBar">Isabella\'s Play Day</string>
+
+</resources>

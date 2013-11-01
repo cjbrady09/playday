@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.navigationdrawerexample"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:icon="@drawable/a"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo.Light.DarkActionBar" >
+        <activity
+            android:name="com.example.android.navigationdrawerexample.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/titleBar" 
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.ShowerActivity"
+            android:label="@string/titleBar" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.SarahActivity"
+            android:label="@string/title_activity_sarah" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.SusanActivity"
+            android:label="@string/title_activity_susan" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.BridgetActivity"
+            android:label="@string/title_activity_bridget" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.FriendsActivity"
+            android:label="@string/title_activity_friends" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.JakeActivity"
+            android:label="@string/title_activity_jake" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.DrakeActivity"
+            android:label="@string/title_activity_drake" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.LunchActivity"
+            android:label="@string/title_activity_lunch" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.SigActivity"
+            android:label="@string/title_activity_sig" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.AlbiaActivity"
+            android:label="@string/title_activity_albia" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.BradyActivity"
+            android:label="@string/title_activity_brady" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.RoomActivity"
+            android:label="@string/title_activity_room" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.KatieCaraActivity"
+            android:label="@string/title_activity_katie_cara" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.ClarkActivity"
+            android:label="@string/title_activity_clark" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.BunnyActivity"
+            android:label="@string/title_activity_bunny" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.TrackActivity"
+            android:label="@string/title_activity_track" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.CarActivity"
+            android:label="@string/title_activity_car" >
+        </activity>
+        <activity
+            android:name="com.example.android.navigationdrawerexample.MarriageActivity"
+            android:label="@string/title_activity_final" >
+        </activity>
+    </application>
+
+</manifest>
